@@ -1,0 +1,174 @@
+body {
+    margin: 0;
+   text-align: center;
+}
+.hero-section{
+    background-image: url('table-mountain-1.jpg');
+    background-size: cover;
+    width: 720px;
+    height: 343px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    border-radius: 10px;
+    background: #1D3557;
+    color: #FFF;
+    text-align: center;
+    font-family: Arial;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 3px 12px 5px 12px;
+    width: 201px;
+    height: 34px; 
+}
+
+h2{
+    background: #457B9D;
+    border-radius: 10px;
+    color: #FFF;
+    font-family: Arial;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 355px;
+    padding: 10px 29px 10px 28px;
+}
+
+.active-section{
+    width: 720px;
+    height: 378px;
+    background: #F1FAEE;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 39px;
+    /* background: #F1FAEE; */
+}
+
+.active-section h3{
+    color: white;
+    font-family: Arial;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 439px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+section .active-image-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top:55px;
+}
+
+section .active-image-section img{
+    border-radius: 50%;
+    width: 100px;
+    height: 99.338px;
+    margin-bottom: 23px;
+}
+
+.active-dark{
+    margin-top:0;
+    color: #1D3557;
+    width: 183px;
+    height: 32px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 17px;
+}
+.active-content{
+    margin-top: 0;
+    width: 198px;
+    height: 54px;
+    color: #1D3557;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.activities{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.guide-section{
+    background: #FFFFFF;
+    padding-top:50px;
+    width: 720px;
+    height: 394px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+.guide-container{
+    display: flex;
+    margin: 50px 160px;
+    border-radius: 10px;
+    background: #A8DADC;
+    box-shadow: 0px 6px 0px 0px #1D3557;
+    padding: 23px 11px 23px 13px;
+}
+.guide-container img{
+    width: 180px;
+    height: 248.667px;
+    border-radius: 10px;
+    margin-right: 7px;
+}
+.guide-container div h3{
+    width: 207px;
+    height: 32px;
+    color: #1D3557;
+    text-align: center;
+    font-family: Arial;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 23px;
+}
+.guide-container div p{
+    margin-top:0px;
+    margin-bottom: 26px;
+    width: 189px;
+    height: 71px;
+    color: #1D3557;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+}
+h4{
+    width: 189px;
+    height: 18px;
+    color: #1D3557;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
